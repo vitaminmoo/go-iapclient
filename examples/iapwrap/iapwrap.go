@@ -14,7 +14,7 @@ import (
 	"os/exec"
 	"syscall"
 
-	"github.com/urbanairship/go-iapclient"
+	"github.com/vitaminmoo/go-iapclient"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 

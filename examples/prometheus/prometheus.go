@@ -12,7 +12,7 @@ import (
 	prometheus "github.com/prometheus/client_golang/api"
 	prometheusAPI "github.com/prometheus/client_golang/api/prometheus/v1"
 	"github.com/prometheus/common/model"
-	"github.com/urbanairship/go-iapclient"
+	"github.com/vitaminmoo/go-iapclient"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )
 
